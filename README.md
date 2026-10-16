@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 Experience the project live in action! Click the link below:
-🔗 **[Launch Live Interactive Demo](https://emergency-route-planner-pm5tmobwukpceq45dog34y.streamlit.app/)** *(Note: Replace this with your actual deployment URL from Render, Streamlit, etc.)* 🌐
+🔗 **[https://emergency-route-planner-pm5tmobwukpceq45dog34y.streamlit.app/]** *(Note: Replace this with your actual deployment URL from Render, Streamlit, etc.)* 🌐
 
 ---
 
