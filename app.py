@@ -26,22 +26,7 @@ from hospitals import build_hospital_tree, demo_hospitals, hospitals_from_osm
 from osm import fetch_hospital_elements, fetch_roads, geocode, network_from_overpass
 
 st.set_page_config(page_title="Emergency Route Planner", page_icon="🚑", layout="wide")
-# GitHub creator profile
-GITHUB_USERNAME = "VEERA PURNIMA VENKATA"
 
-with st.sidebar:
-    st.markdown("---")
-    st.subheader("👨‍💻 About the Developer")
-
-    st.image(
-        f"https://github.com/{25A31A05HJ}.png",
-        width=100
-    )
-
-    st.markdown(
-        f"**[{VEERA PURNIMA VENKATA}](https://github.com/{25A31A05HJ})**"
-    )
-    st.caption("Creator of Emergency Route Planner")
 S = st.session_state
 
 DEFAULT_CENTER = (17.0005, 81.8040)          # Rajahmundry, Andhra Pradesh
